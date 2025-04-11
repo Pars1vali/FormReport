@@ -6,14 +6,17 @@
   <title>Report</title>
 </head>
 <body>
-  <p>Отчет о продажах</p>
+  <p>Отчет о продажах v1.1</p>
   <script src="https://telegram.org/js/telegram-web-app.js?56"></script>
   <script>
 
     var tg = window.Telegram.WebApp;
     tg.MainButton.show();
     tg.MainButton.setText("Отправить");
-
+    tg.MainButton.onClick(() => {
+      tg.sendData("data");
+            
+        });
   </script>
   
 </body>
