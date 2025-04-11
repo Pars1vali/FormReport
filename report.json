@@ -1,0 +1,137 @@
+﻿{
+  "topics": [
+    {
+      "type": "number",
+      "name": "Сим Мегафон + Yota, шт",
+      "help": "",
+      "credit": false,
+      "plan": false
+    },
+    {
+      "type": "number",
+      "name": "Мегасемья",
+      "help": "",
+      "credit": false,
+      "plan": false
+    },
+    {
+      "type": "number",
+      "name": "Абонементы Мегафон+Yota",
+      "help": "",
+      "credit": false,
+      "plan": true
+    },
+    {
+      "type": "number",
+      "name": "Сим Мегафон + Yota, шт",
+      "help": "",
+      "credit": false,
+      "plan": false
+    },
+    {
+      "type": "percent",
+      "name": "Доля абонементов от сим",
+      "help": "",
+      "credit": false,
+      "plan": false
+    },
+    {
+      "type": "number",
+      "name": "РК Realme(модели по акции)",
+      "help": "",
+      "credit": false,
+      "plan": false
+    },
+    {
+      "type": "number",
+      "name": "РК HONOR(модели по акции)",
+      "help": "",
+      "credit": false,
+      "plan": false
+    },
+    {
+      "type": "number",
+      "name": "Первая цена",
+      "help": "",
+      "credit": false,
+      "plan": false
+    },
+    {
+      "type": "number",
+      "name": "Huawei",
+      "help": "",
+      "credit": false,
+      "plan": false
+    },
+    {
+      "type": "number",
+      "name": "Apple",
+      "help": "",
+      "credit": false,
+      "plan": false
+    },
+    {
+      "type": "money",
+      "name": "Аксесуары",
+      "help": "",
+      "credit": false,
+      "plan": false
+    },
+    {
+      "type": "number",
+      "name": "Акция 1+1",
+      "help": "",
+      "credit": false,
+      "plan": false
+    },
+    {
+      "type": "money",
+      "name": "ФУ",
+      "help": "",
+      "credit": false,
+      "plan": false
+    },
+    {
+      "type": "number",
+      "name": "Сим Мегафон + Yota, шт",
+      "help": "",
+      "credit": false,
+      "plan": false
+    },
+    {
+      "type": "money",
+      "name": "Страховки",
+      "help": "",
+      "credit": false,
+      "plan": false
+    },
+    {
+      "type": "number",
+      "name": "КД заявки",
+      "help": "",
+      "credit": true,
+      "plan": false
+    },
+    {
+      "type": "number",
+      "name": "БК заявки",
+      "help": "",
+      "credit": true,
+      "plan": false
+    },
+    {
+      "type": "number",
+      "name": "Адаптер",
+      "help": "",
+      "credit": false,
+      "plan": false
+    },
+    {
+      "type": "money",
+      "name": "NPS 9/10 факт за день",
+      "help": "",
+      "credit": false,
+      "plan": false
+    }
+  ]
+}
